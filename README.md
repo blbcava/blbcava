@@ -20,6 +20,6 @@ I am an economist with experience in the financial market and skills in programm
 ## 📬 Contact
 
 - 📧 Email: bruno.cavalcante@fgv.edu.br
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/brunolbc/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/brunolbc/)
 
 💡 Always open to collaborations and new challenges at the intersection of economics, finance, and technology!
