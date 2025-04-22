@@ -7,7 +7,7 @@ I am an economist with experience in the financial market and skills in programm
 - 📊 Specialist in financial derivatives, time series forecasting, macroeconometrics, and statistical modeling.
 - 🎓 PhD Student at FGV-EESP, researching macroeconometrics.
 - 💹 Experience in the financial sector, focusing on investments, risk, and macroeconomics.
-- 🐍 Programming in Python for data analysis, process automation, and machine learning.
+- 🐍 Programming in Python for data analysis, econometrics, and machine learning.
 - 📚 Interest in artificial intelligence applied to finance and economics.
 
 ## 🔧 Technologies & Tools
