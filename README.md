@@ -1,26 +1,11 @@
-# 💼 Economist | 📈 Financial Analyst | 💻 Python Developer
+# Bruno Cavalcante
 
-I am an economist with experience in the financial market and skills in programming, especially in Python. 
+Economist with experience in **quantitative finance, risk modeling, and macroeconomic forecasting**, having worked at leading institutions such as **Itaú, Safra, and Banco Pan**. Background in the buy side (**Itaú Asset Management**) monitoring risks of global multi-asset hedge funds.  
 
-## 🚀 About Me
+Specialist in **time-series forecasting**, applied econometrics, and **machine learning**, developing predictive models to support strategic decision-making in the financial sector.  
 
-- 📊 Specialist in financial derivatives, time series forecasting, macroeconometrics, and statistical modeling.
-- 🎓 PhD Student at FGV-EESP, researching macroeconometrics.
-- 💹 Experience in the financial sector, focusing on investments, risk, and macroeconomics.
-- 🐍 Programming in Python for data analysis, econometrics, and machine learning.
-- 📚 Interest in artificial intelligence applied to finance and economics.
+Currently a **Teaching Assistant at FGV-EESP**, contributing to graduate courses in *Econometrics*, *Macroeconomics*, and *Forecasting*, while pursuing a PhD focused on **monetary policy shocks, high-frequency identification, and applied macroeconometrics**.  
 
-## 🔧 Technologies & Tools
+📚 Academic background: **PUC-SP (Economics)**, **Insper (Finance)**, and **FGV-EESP (MSc and PhD in Economics)**.  
 
-- **Languages:** Python, SQL, R
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels
-- **Databases:** SQL Server, Hadoop, SAS, MYSQL
-- **Other Tools:** Excel (VBA), Tableau, Bloomberg, Git/GitHub
-
-
-## 📬 Contact
-
-- 📧 Email: bruno.cavalcante@fgv.edu.br
-- 💼 [LinkedIn](https://www.linkedin.com/in/brunolbc/)
-
-💡 Always open to collaborations and new challenges at the intersection of economics, finance, and technology!
+🔗 [LinkedIn](https://www.linkedin.com/in/brunolbc) • [Website](http://www.brunocavalcante.io/)
